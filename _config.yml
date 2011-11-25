@@ -1,0 +1,6 @@
+safe: true
+auto: true
+markdown: rdiscount
+permalink: pretty
+exclude: Rakefile
+
