@@ -1,5 +1,5 @@
 ---
-title: The Arcanaeum
+title: Welcome to the Arcanaeum
 layout: index
 ---
 
