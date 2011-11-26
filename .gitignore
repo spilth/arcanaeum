@@ -1,4 +1,5 @@
 _site
 books/*
 .DS_Store
+_includes/*
 
