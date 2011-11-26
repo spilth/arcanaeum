@@ -11,6 +11,8 @@ task :import do
 
 	source_directory = "./_books"
 	target_directory = "books"
+	include_directory = "./_includes"
+
 	ic = Iconv.new('UTF-8//IGNORE', 'UTF-8')
 
 	# Get the list of books
@@ -63,7 +65,7 @@ title: #{title}
 
 	end
 
-	include_file = File.open("_includes/books.md", "w")
+	include_file = File.open("#{include_directory}/books.md", "w")
 	include_file.write(book_list)
 	include_file.close
 	
