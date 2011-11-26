@@ -2,5 +2,5 @@ safe: true
 auto: true
 markdown: rdiscount
 permalink: pretty
-exclude: README.md
+exclude: Rakefile, README.md
 

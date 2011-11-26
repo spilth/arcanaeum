@@ -1,0 +1,72 @@
+[pagebreak]
+<p align="center">
+
+
+Feyfolken
+Book One
+
+
+by
+Waughin Jarth
+</p>
+
+
+
+[pagebreak]
+<p align="left">
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Great Sage was a tall, untidy man, bearded but bald. His library resembled him: all the books had been moved over the years to the bottom shelves where they gathered in dusty conglomerations.  He used several of the books in his current lecture, explaining to his students, Taksim and Vonguldak, how the Mages Guild had first been founded by Vanus Galerion.  They had many questions about Galerion's beginnings in the Psijic Order, and how the study of magic there differed from the Mages Guild.
+
+"It was, and is, a very structured way of life," explained the Great Sage. "Quite elitist, actually.  That was the aspect of it Galerion most objected to.  He wanted the study of magic to be free.  Well, not free exactly, but at least available to all who could afford it.  In doing that, he changed the course of life in Tamriel."
+
+"He codified the praxes and rituals used by all modern potionmakers, itemmakers, and spellmakers, didn't he, Great Sage?" asked Vonguldak.
+
+"That was only part of it.  Magic as we know it today comes from Vanus Galerion.  He restructured the schools to be understandable by the masses.  He invented the tools of alchemy and enchanting so everyone could concoct whatever they wanted, whatever their skills and purse would allow them to, without fears of magical backfire.  Well, eventually he created that."
+
+"What do you mean, Great Sage?" asked Taksim.
+
+"The first tools were more automated than the ones we have today.  Any layman could use them without the least understanding of enchantment and alchemy.  On the Isle of Artaeum, the students had to learn the skills laboriously and over many years, but Galerion decided that was another example of the Psijics' elitism.  The tools he invented were like robotic master enchanters and alchemists, capable of creating anything the customer required, provided he could pay."
+
+"So someone could, for example, create a sword that would cleave the world in twain?"  asked Vonguldak.
+
+"I suppose, in theory, but it would probably take all the gold in the world," chuckled the Great Sage.  "No, I can't say we were ever in very great danger, but that it isn't to say that there weren't a few unfortunate incidents where a unschooled yokel invented something beyond his ken.  Eventually, of course, Galerion tore apart his old tools, and created what we use today.  It's a little elitist, requiring that people know what they're doing before they do it, but remarkably practical."
+
+"What did people invent?" asked Taksim. "Are there any stories?"
+
+"You're trying to distract me so I don't test you," said the Great Sage. "But I suppose I can tell you one story, just to illustrate a point.  This particular tale takes place in city of Alinor on the west coast of Summurset Isle, and concerns a scribe named Thaurbad.  
+
+This was in the Second Era, not long after Vanus Galerion had first founded the Mages Guild and chapter houses had sprung up all over Summurset, though not yet spread to the mainland of Tamriel.
+
+For five years, this scribe, Thaurbad, had conducted all his correspondence to the outside world by way of his messenger boy, Gorgos. For the first year of his adoption of the hermit life, his few remaining friends and family -- friends and family of his dead wife, truth be told -- had tried visiting, but even the most indefatigable kin gives up eventually when given no encouragement. No one had a good reason to keep in touch with Thaurbad Hulzik, and in time, very few even tried.  His sister-in-law sent him the occasional letter with news of people he could barely remember, but even that communication was rare.  Most of messages to and from his house dealt with his business, writing the weekly proclamation from the Temple of Auri-El.  These were bulletins nailed on the temple door, community news, sermons, that sort of thing.
+
+The first message Gorgos brought him that day was from his healer, reminding him of his appointment on Turdas. Thaurbad took a while to write his response, glum and affirmative. He had the Crimson Plague, which he was being treated for at considerable expense -- you have to remember these were the days before the School of Restoration had become quite so specialized.  It was a dreadful disease and had taken away his voicebox.  That was why he only communicated by script.
+
+The next message was from Alfiers, the secretary at the church, as curt and noxious as ever: "THAURBAD, ATTACHED IS SUNDAS'S SERMON, NEXT WEEK'S EVENTS CALENDAR, AND THE OBITUARIES. TRY TO LIVEN THEM UP A LITTLE. I WASN'T HAPPY WITH YOUR LAST ATTEMPT."
+
+Thaurbad had taken the job putting together the Bulletin before Alfiers joined the temple, so his only mental image of her was purely theoretical and had evolved over time. At first he thought of Alfiers as an ugly fat sloadess covered with warts; more recently, she had mutated into a rail-thin, spinster orcess. Of course, it was possible his clairvoyance was accurate and she had just lost weight.
+
+Whatever Alfiers looked like, her attitude towards Thaurbad was clear, unwavering disdain. She hated his sense of humor, always found the most minor of misspellings, and considered his structure and calligraphy the worst kind of amateur work. Luckily, working for a temple was the next most secure job to working for the good King of Alinor. It didn't bring in very much money, but his expenses were minimal.  The truth was, he didn't need to do it anymore.  He had quite a fortune stashed away, but he didn't have anything else to occupy his days.  And the truth was further that having little else to occupy his time and thoughts, the Bulletin was very important to him.
+
+Gorgos, having delivered all the messages, began to clean and as he did so, he told Thaurbad all the news in town.  The boy always did so, and Thaurbad seldom paid him any attention, but this time he had an interesting report.  The Mages Guild had come to Alinor.
+
+As Thaurbad listened intently, Gorgos told him all about the Guild, the remarkable Archmagister, and the incredible tools of alchemy and enchanting.  Finally, when the lad had finished, Thaurbad scribbled a quick note and handed it and a quill to Gorgos.  The note read, "Have them enchant this quill."
+
+"It will be expensive," said Gorgos.
+
+Thaurbad gave Gorgos a sizeable chunk of the thousands of gold pieces he had saved over the years, and sent him out the door.  Now, Thaurbad decided, he would finally have the ability to impress Alfiers and bring glory to the Temple of Auri-El.
+
+The way I've heard the story, Gorgos had thought about taking the gold and leaving Alinor, but he had come to care for poor old Thaurbad.  And even more, he hated Alfiers who he had to see every day to get his messages for his master.  It wasn't perhaps for the best of motivations, but Gorgos decided to go to the Guild and get the quill enchanted.
+
+The Mages Guild was not then, especially not then, an elitist institution, as I have said, but when the messenger boy came in and asked to use the Itemmaker, he was greeted with some suspicion.  When he showed the bag of gold, the attitude melted, and he was ushered in the room.
+
+Now, I haven't seen one of the enchanting tools of old, so you must use your imagination.  There was a large prism for the item to be bound with magicka, assuredly, and an assortment of soul gems and globes of trapped energies.  Other than that, I cannot be certain how it looked or how it worked.  Because of all the gold he gave to the Guild, Gorgos could infuse the quill with the highest-price soul available, which was something daedric called Feyfolken.  The initiate at the Guild, being ignorant as most Guildmembers were at that time, did not know very much about the spirit except that it was filled with energy. When Gorgos left the room, the quill had been enchanted to its very limit and then some.  It was virtually quivering with power.
+
+Of course, when Thaurbad used it, that's when it became clear how over his head he was.
+
+And now," said the Great Sage. "It's time for your test."
+
+"But what happened?  What were the quill's powers?" cried Taksim.
+
+"You can't stop the tale there!" objected Vonguldak.
+
+"We will continue the tale after your conjuration test, provided you both perform exceptionally well," said the Great Sage.
+ 

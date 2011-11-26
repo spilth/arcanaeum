@@ -1,0 +1,74 @@
+[pagebreak]
+<p align="center">
+
+
+The Ransom of Zarek
+Ancient Tales of the Dwemer
+Part I
+
+
+by 
+Marobar Sul
+</p>
+
+
+[pagebreak]
+<p align="left">
+<img src='img://Textures/Interface/Books/Illuminated_Letters/J_letter.png'>alemmil stood in her garden and read the letter her servant had brought to her. The bouquet of joss roses in her hand fell to the ground. For a moment it was as if all birds had ceased to sing and a cloud had passed over the sky. Her carefully cultivated and structured haven seemed to flood over with darkness.
+
+"We have thy son," it read. "We will be in touch with thee shortly with our ransom demands."
+
+Zarek had never made it as far as Akgun after all. One of the brigands on the road, Orcs probably, or accursed Dunmer, must have seen his well-appointed carriage, and taken him hostage. Jalemmil clutched at a post for support, wondering if her boy had been hurt. He was but a student, not the sort to fight against well-armed men, but had they beaten him? It was more than a mother's heart could bear to imagine.
+
+"Don't tell me they sent the ransom note so quickly," called a family voice, and a familiar face appeared through the hedge. It was Zarek. Jalemmil hurried to embrace her boy, tears running down her face.
+
+"What happened?" she cried. "I thought thou had been kidnapped."
+
+"I was," said Zarek. "Three huge soaring Nords attacked by carriage on the Frimvorn Pass. Brothers, as I learned, named Mathais, Ulin, and Koorg. Thou should have seen these men, mother. Each one of them would have had trouble fitting through the front door, I can tell thee."
+
+"What happened?" Jalemmil repeated. "Were thou rescued?"
+
+"I thought about waiting for that, but I knew they'd send off a ransom note and I know how thou does worry. So I remembered what my mentor at Akgun always said about remaining calm, observing thy surroundings, and looking for thy opponent's weakness," Zarek grinned. "It took a while, though, because these fellows were truly monsters. And then, when I listened to them, bragging to one another, I realized that vanity was their weakness."
+
+"What did thou do?"
+
+"They had me chained at their camp in the woods not far from Cael, on a high knoll over-looking a wide river. I heard one of them, Koorg, telling the others that it would take the better part of an hour to swim across the river and back. They were nodding in agreement, when I spoke up.
+
+"'I could swim that river and back in thirty minutes,' I said.
+
+"'Impossible,' said Koorg. 'I can swim faster than a little whelp like thee.'
+
+"So it was agreed that we would dive off the cliff, swim to the center island, and return. As we went to our respective rocks, Koorg took it upon himself to lecture me about all the fine points of swimming. The importance of synchronized movements of the arms and legs for maximum speed. How essential it was to breathe after only third or fourth stroke, not too often to slow thyself down, but not too often to lose one's air. I nodded and agreed to all his fine points. Then we dove off the cliffs. I made it to the island and back in a little over an hour, but Koorg never returned. He had dashed his brains at the rocks at the base of the cliff. I had noticed the telltale undulations of underwater rocks, and had taken the diving rock on the right."
+
+"But thou returned?" asked Jalemmil, astounded. "Was that not then when thou escaped?"
+
+"It was too risky to escape then," said Zarek. "They could have easily caught me again, and I wasn't keen to be blamed for Koorg's disappearance. I said I did not know what happened to him, and after some searching, they decided he had forgotten about the race and had swum ashore to hunt for food. They could not see how I could have had anything to do with his disappearance, as fully visible as I was throughout my swim. The two brothers began making camp along the rocky cliff-edge, picking an ideal location so that I would not be able to escape.
+
+"One of the brothers, Mathais, began commenting on the quality of the soil and the gradual incline of the rock that circled around the bay below. Ideal, he said, for a foot race. I expressed my ignorance of the sport, and he was keen to give me details of the proper technique for running a race. He made absurd faces, showing how one must breathe in through the nose and out through the mouth; how to bend one's knees to the proper angle on the rise; the importance of sure foot placement. Most important, he explained, was that the runner keep an aggressive but not too strenuous pace if one intends to win. It is fine to run in second place through the race, he said, provided one has the willpower and strength to pull out in the end.
+
+"I was an enthusiastic student, and Mathais decided that we ought to run a quick race around the edge of the bay before night fell. Ulin told us to bring back some firewood when we came back. We began at once down the path, skirting the cliff below. I followed his advice about breath, gait, and foot placement, but I ran with all my power right from the start. Despite his much longer legs, I was a few paces ahead as we wound the first corner.
+
+"With his eyes on my back, Mathais did not see the gape in the rock that I jumped over. He plummeted over the cliff before he had a chance to cry out. I spent a few minutes gathering some twigs before I returned to Ulin at camp."
+
+"Now thou were just showing off," frowned Jalemmil. "Surely that would have been a good time to escape."
+
+"Thou might think so," agreed Zarek. "But thou had to see the topography -- a few large trees, and then nothing but shrubs. Ulin would have noticed my absence and caught up with me in no time, and I would have had a hard time explaining Mathais's absence. However, the brief forage around the area allowed me to observe some of the trees close up, and I could formulate my final plan.
+
+"When I got back to camp with a few twigs, I told Ulin that Mathais was slow coming along, dragging a large dead tree behind him. Ulin scoffed at his brother's strength, saying it would take him time to pull up a live tree by the roots and drop it on the bonfire. I expressed reasonable doubt.
+
+"'I'll show thee,' he said, ripping up a ten foot tall specimen effortlessly.
+
+"'But that's scarcely a sapling,' I objected. 'I thought thou could rip up a tree.' His eyes followed mine to a magnificent, heavy-looking one at the edge of the clearing. Ulin grabbed it and began to shake it with a tremendous force to loosen its roots from the dirt. With that, he loosened the hive from the uppermost branches, dropping it down onto his head.
+
+"That was when I made my escape, mother," said Zarek, in conclusion, showing a little schoolboy pride. "While Mathais and Koorg were at the base of the cliff, and Ulin was flailing about, engulfed by a swarm."
+
+Jalemmil embraced her son once again.
+
+Publisher's Note
+I was reluctant to publish the works of Marobar Sul, but when the University of Gwylim Press asked me to edit this edition, I decided to use this as an opportunity to set the record straight once and for all.
+
+Scholars do not agree on the exact date of Marobar Sul's work, but it is generally agreed that they were written by the playwright "Gor Felim," famous for popular comedies and romances during the Interregnum between the fall of the First Cyrodilic Empire and the rise of Tiber Septim. The current theory holds that Felim heard a few genuine Dwemer tales and adapted them to the stage in order to make money, along with rewritten versions of many of his own plays.
+
+Gor Felim created the persona of "Marobar Sul" who could translate the Dwemer language in order to add some sort of validity to the work and make it even more valuable to the gullible. Note that while "Marobar Sul" and his works became the subject of heated controversy, there are no reliable records of anyone actually meeting "Marobar Sul," nor was there anyone of that name employed by the Mages Guild, the School of Julianos, or any other intellectual institution.
+
+In any case, the Dwemer in most of the tales of "Marobar Sul" bear little resemblance to the fearsome, unfathomable race that frightened even the Dunmer, Nords, and Redguards into submission and built ruins that even now have yet to be understood.</p> 

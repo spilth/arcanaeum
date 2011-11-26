@@ -1,0 +1,146 @@
+[pagebreak]
+<p align="center">
+
+
+Evening Star
+Book Twelve of 2920
+The Last Year of the First Era
+
+by
+Carlovac Townway
+</p>
+
+
+
+[pagebreak]
+<p align="left">
+1 Sun's Dusk, 2920
+Balmora, Morrowind
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he winter morning sun glinted through the cobweb of frost on the window, and Almalexia opened her eyes.  An ancient healer mopped a wet cloth across her head, smiling with relief.  Asleep in the chair next to her bed was Vivec.  The healer rushed to a side cabinet and returned with a flagon of water.
+
+"How are you feeling, goddess?" asked the healer.
+
+"Like I've been asleep for a very long time," said Almalexia.
+
+"So you have.  Fifteen days," said the healer, and touched Vivec's arm. "Master, wake up.  She speaks."
+
+Vivec rose with a start, and seeing Almalexia alive and awake, his face broke into a wide grin.  He kissed her forehead, and took her hand.  At last, there was warmth again in her flesh.
+
+Almalexia's peaceful repose suddenly snapped: "Sotha Sil --"
+
+"He's alive and well," replied Vivec. "Working on one of his machines again somewhere.  He would have stayed here too, but he realized he could do you more good working that peculiar sorcery of his."
+
+The castellan appeared in the doorway. "Sorry to interrupt you, master, but I wanted to tell you that your fastest messenger left late last night for the Imperial City."
+
+"Messenger?" asked Almalexia. "Vivec, what has happened?"
+
+"I was to go and sign a truce with the Emperor on the sixth, so I sent him word that it had to be postponed."
+
+"You can't do me any good here," said Almalexia, pulling herself up with effort. "But if you don't sign that truce, you'll put Morrowind back to war, maybe for another eighty years.  If you leave today with an escort and hurry, perhaps you can get to the Imperial City only a day or two late."
+
+"Are you certain you don't need me here?" asked Vivec.
+
+"I know that Morrowind needs you more."
+
+[pagebreak]
+6 Sun's Dusk, 2920
+The Imperial City, Cyrodiil
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Emperor Reman III sat on his throne, surveying the audience chamber.  It was a spectacular sight: silver ribbons dangled from the rafters, burning cauldrons of sweet herbs simmered in every corner, Pyandonean swallowtails sweeping through the air, singing their songs.  When the torches were lit and servants began fanning, the room would be transfigured into a shimmering fantasy land.  He could smell the kitchen already, spices and roasts.
+
+The Potentate Versidue-Shaie and his son Savirien-Chorak slithered into the room, both bedecked in the headdress and jewelry of the Tsaesci.  There was no smile on their golden face, but there seldom was one.  The Emperor still greeted his trusted advisor with enthusiasm.
+
+"This ought to impress those savage Dark Elves," he laughed. "When are they supposed to arrive?"
+
+"A messenger's just arrived from Vivec," said the Potentate solemnly. "I think it would be best if your Imperial Majesty met him alone."
+
+The Emperor lost his laughter, but nodded to his servants to withdraw.  The door then opened and the Lady Corda walked into the room, with a parchment in her hand.  She shut the door behind her, but did not look up to meet the Emperor's face.
+
+"The messenger gave his letter to my mistress?" said Reman, incredulous, rising to take the note. "That's a highly unorthodox way of delivering a message."
+
+"But the message itself is very orthodox," said Corda, looking up into his one good eye.  With a single blinding motion, she brought the letter up under the Emperor's chin.  His eyes widened and blood poured down the blank parchment.  Blank that is, except for a small black mark, the sign of the Morag Tong.  It fell to the floor, revealing the small dagger hidden behind it, which she now twisted, severing his throat to the bone.  The Emperor collapsed to the floor, gasping soundlessly.
+
+"How long do you need?" asked Savirien-Chorak.
+
+"Five minutes," said Corda, wiping the blood from her hands. "If you can give me ten, though, I'll be doubly grateful."
+
+"Very well," said the Potentate to Corda's back as she raced from the audience chamber.  "She ought to have been an Akaviri, the way the girl handles a blade is truly remarkable."
+
+"I must go and establish our alibi," said Savirien-Chorak, disappearing behind one of the secret passages that only the Emperor's most trusted knew about.
+
+"Do you remember, close to a year ago, your Imperial Majesty," the Potentate smiled, looking down at the dying man. "When you told me to remember 'You Akaviri have a lot of showy moves, but if just one of our strikes comes through, it's all over for you.'  I remembered that, you see."
+
+The Emperor spat up blood and somehow said the word: "Snake."
+
+"I am a snake, your Imperial Majesty, inside and out.  But I didn't lie.  There was a messenger from Vivec.  It seems he'll be a little late in arriving," the Potentate shrugged before disappearing behind the secret passage. "Don't worry yourself.  I'm sure the food won't go bad."
+
+The Emperor of Tamriel died in a pool of his own blood in his empty audience chamber decorated for a grand ball.  He was found by his bodyguard fifteen minutes later.  Corda was nowhere to be found.
+
+[pagebreak]
+8 Sun's Dusk, 2920
+Caer Suvio, Cyrodiil
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/L_letter.png'>ord Glavius, apologizing profusely for the quality of the road through the forest, was the first emissary to greet Vivec and his escort as they arrived.  A string of burning globes decorated the leafless trees surrounding the villa, bobbing in the gentle but frigid night breeze.  From within, Vivec could smell the simple feast and a high sad melody.  It was a traditional Akaviri wintertide carol.
+
+Versidue-Shaie greeted Vivec at the front door.
+
+"I'm glad you received the message before you got all the way to the City," said the Potentate, guiding his guest into the large, warm drawing room. "We are in a difficult transition time, and for the moment, it is best not to conduct our business at the capitol."
+
+"There is no heir?" asked Vivec.
+
+"No official one, though there are distant cousins vying for the throne.  While we sort the matter out, at least temporarily the nobles have decided that I may act in the office of my late master," Versidue-Shaie signaled for the servants to draw two comfortable chairs in front of the fireplace. "Would you feel most comfortable if we signed the treaty officially right now, or would you like to eat something first?"
+
+"You intend to honor the Emperor's treaty?"
+
+"I intend to do everything as the Emperor," said the Potentate.  
+
+[pagebreak]
+14 Sun's Dusk, 2920
+Tel Aruhn, Morrowind
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/C_letter.png'>orda, dusty from the road, flew into the Night Mother's arms.  For a moment, they stayed locked together, the Night Mother stroking her daughter's hair, kissing her forehead.  Finally, she reached into her sleeve and handed Corda a letter.
+
+"What is it?" asked Corda.
+
+"A letter from the Potentate, expressing his delight at your expertise," replied the Night Mother. "He's promised to send us payment, but I've already sent him back a reply.  The late Empress paid us enough for her husband's death.  Mephala would not have us be greedy beyond our needs.  You should not be paid twice for the same murder, so it is written."
+
+"He killed Rijja, my sister," said Corda quietly.
+
+"And so it should be that you struck the blow."
+
+"Where will I go now?"
+
+"Whenever any of our holy workers becomes too famous to continue the crusade, we send them to an island called Vounoura.  It's not more than a month's voyage by boat, and I've arranged for a delightful estate for your sanctuary," the Night Mother kissed the girl's tears. "You meet many friends there, and I know you will find peace and happiness at last, my child."
+
+[pagebreak]
+19 Sun's Dusk, 2920
+Mournhold, Morrowind
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/A_letter.png'>lmalexia surveyed the rebuilding of the town.  The spirit of the citizens was truly inspirational, she thought, as she walked among the skeletons of new buildings standing in the blackened, shattered remains of the old.  Even the plantlife showed a remarkable resilience.  There was life yet in the blasted remains of the comberry and roobrush shrubs that once lined the main avenue.  She could feel the pulse.  Come springtide, green would bolt through the black.
+
+The Duke's heir, a lad of considerable intelligence and sturdy Dunmer courage, was coming down from the north to take his father's place.  The land would do more than survive: it would strengthen and expand.  She felt the future much more strongly than she saw the present.
+
+Of all the things she was most certain of, she knew that Mournhold was forever home to at least one goddess.
+
+[pagebreak]
+22 Sun's Dusk, 2920
+The Imperial City, Cyrodiil
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Cyrodiil line is dead," announced the Potentate to the crowd gathered beneath the Speaker's Balcony of the Imperial Palace.  "But the Empire lives.  The distant relatives of our beloved Emperor have been judged unworthy of the throne by the trusted nobility who advised his Imperial Majesty throughout his long and illustrious reign.  It has been decided that as an impartial and faithful friend of Reman III, I will have the responsibility of continuing on in his name."
+
+The Akaviri paused, allowing his words to echo and translate into the ears of the populace.  They merely stared up at him in silence.  The rain had washed through the streets of the city, but the sun, for a brief time, appeared to be offering a respite from the winter storms.
+
+"I want to make it clear that I am not taking the title Emperor," he continued. "I have been and will continue to be Potentate Versidue-Shaie, an alien welcomed kindly to your shores.  It will be my duty to protect my adopted homeland, and I pledge to work tirelessly at this task until someone more worthy takes the burden from me.  As my first act, I declare that in commemoration of this historical moment, beginning on the first of Morning Star, we will enter year one of the Second Era as time will be reckoned.  Thus, we mourn the loss of our Imperial family, and look forward to the future."
+
+Only one man clapped at these words.  King Dro'Zel of Senchal truly believed that this would be the finest thing to happen to Tamriel in history.  Of course, he was quite mad.    
+
+[pagebreak]
+31 Sun's Dusk, 2920
+Ebonheart, Morrowind
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/I_letter.png'>n the smoky catacombs beneath the city where Sotha Sil forged the future with his arcane clockwork apparatus, something unforeseen happened.  An oily bubble seeped from a long trusted gear and popped.  Immediately, the wizard's attention was drawn to it and to the chain that tiny action triggered.  A pipe shifted half an inch to the left.  A tread skipped.  A coil rewound itself and began spinning in a counter direction.  A piston that had been thrusting left-right, left-right, for millennia suddenly began shifting right-left.  Nothing broke, but everything changed.
+
+"It cannot be fixed now," said the sorcerer quietly.
+
+He looked up through a crick in the ceiling into the night sky.  It was midnight.  The second era, the age of chaos, had begun. 

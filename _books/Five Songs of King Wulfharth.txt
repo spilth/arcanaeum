@@ -1,0 +1,55 @@
+[pagebreak]
+<p align="center">
+
+
+The Five Songs of
+King Wulfharth
+
+
+
+
+</p>
+
+
+
+[pagebreak]
+<p align="left">
+Shor's Tongue
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he first song of King Wulfharth is ancient, circa 1E500. After the defeat of the Alessian army at Glenumbria Moors, where King Hoag Merkiller was slain, Wulfharth of Atmora was elected by the Pact of Chieftains. His thu'um was so powerful that he could not verbally swear into the office, and scribes were used to draw up his oaths. Immediately thereafter the scribes wrote down the first new law of his reign: a fiery reinstatement of the traditional Nordic pantheon. The Edicts were outlawed, their priests put to the stake, and their halls set ablaze. The shadow of King Borgas had ended for a span. For his zealotry, King Wulfharth was called Shor's Tongue, and Ysmir, Dragon of the North.
+[pagebreak]
+Kyne's Son
+
+The second song of King Wulfharth glorifies his deeds in the eyes of the Old Gods. He fights the eastern Orcs and shouts their chief into Hell. He rebuilds the 418th step of High Hrothgar, which had been damaged by a dragon. When he swallowed a thundercloud to keep his army from catching cold, the Nords called him the Breath of Kyne.
+[pagebreak]
+Old Knocker
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he third song of King Wulfharth tells of his death. Orkey, an enemy god, had always tried to ruin the Nords, even in Atmora where he stole their years away. Seeing the strength of King Wulfharth, Orkey summoned the ghost of Alduin Time-Eater again. Nearly every Nord was eaten down to six years old. Boy Wulfharth pleaded to Shor, the dead Chieftain of the Gods, to help his people. Shor's own ghost then fought the Time-Eater on the spirit plane, as he did at the beginning of time, and he won, and Orkey's folk, the Orcs, were ruined. As Boy Wulfharth watched the battle in the sky he learned a new thu'um, What Happens When You Shake the Dragon Just So. He used this new magic to change his people back to normal. In his haste to save so many, though, he shook too many years out on himself. He grew older than the Greybeards, and died. The flames of his pyre were said to have reached the hearth of Kyne itself.
+[pagebreak]
+The Ash King
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he fourth song of King Wulfharth tells of his rebirth. The Dwarves and Devils of the eastern kingdoms had started to fight again, and the Nords hoped they might reclaim their ancient holdings there because of it. They planned an attack, but then gave up, knowing that they had no strong King to lead them. Then in walked the Devil of Dagoth, who swore he came in peace. Moreover, he told the Nords a wondrous thing: he knew where the Heart of Shor was! Long ago the Chief of the Gods had been killed by Elven giants, and they ripped out Shor's Heart and used it as a standard to strike fear into the Nords. This worked until Ysgramor Shouted Some Sense and the Nords fought back again. Knowing that they were going to lose eventually, the Elven giants hid the Heart of Shor so that the Nords might never have their God back. But here was the Devil of Dagoth with good news! The Dwarves and Devils of the eastern kingdom had his Heart, and this was the reason for their recent unrest. The Nords asked the Devil of Dagoth why he might betray his countrymer so, and he said that the Devils have betrayed each other since the beginning of time, and this was so, and so the Nords believed him. The Tongues sung Shor's ghost into the world again. Shor gathered an army as he did of old, and then he sucked in the long-strewn ashes of King Wulfharth and remade him, for he needed a good general. But the Devil of Dagoth petitioned to be that general, too, and he pointed out his role as the blessed harbinger of this holy war. So Shor had two generals, the Ash King and the Devil of Dagoth, and he marched on the eastern kingdoms with all the sons of Skyrim. 
+[pagebreak]
+Red Mountain
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he fifth song of King Wulfharth is sad. The survivors of the disaster came back under a red sky. That year is called Sun's Death. The Devil of Dagoth had tricked the Nords, for the Heart of Shor was not in the eastern kingdoms, and had never been there at all. As soon as Shor's army had got to Red Mountain, all the Devils and Dwarves fell upon them. Their sorcerers lifted the mountain and threw it onto Shor, trapping him underneath Red Mountain until the end of time. They slaughtered the sons of Skyrim, but not before King Wulfharth killed King Dumalacath the Dwarf-Orc, and doomed his people. Then Vehk the Devil blasted the Ash King into Hell and it was over. Later, Kyne lifted the ashes of the ashes of Ysmir into the sky, saving him from Hell and showing her sons the color of blood when it is brought by betrayal. And the Nords will never trust another Devil again.
+[pagebreak]
+<p align="center">
+
+The Secret Song of
+Wulfharth Ash-King
+
+</p>
+[pagebreak]
+<p align="left">
+The Truth at Red Mountain
+
+<img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he Heart of Shor was in Resdayn, as Dagoth-Ur had promised. As Shor's army approached the westernmost bank of the Inner Sea, they stared across at Red Mountain, where the Dwemeri armies had gathered. News from the scouts reported that the Chimeri forces had just left Narsis, and that they were taking their time joining their cousins against the Nords. Dagoth-Ur said that the Tribunal had betrayed their King's trust, that they sent Dagoth-Ur to Lorkhan (for that is what they called Shor in Resdayn) so that the god might wreak vengeance on the Dwarves for their hubris; that Nerevar's peace with the Dwemer would be the ruin of the Velothi way. This was the reason for the slow muster, Dagoth-Ur said.
+[pagebreak]
+The Armies Grow
+
+And Lorkhan (for that is what they called Shor in Resdayn) said: "I do not wreak vengeance on the Dwarves for the reasons that the Tribunal might believe I do. Nevertheless, it is true that they will die by my hand, and any whoever should side with them. This Nerevar is the son of Boethiah, one of the strongest Padomaics. He is a hero to his people despite his Tribunal, and he shall muster enough that this battle will be harder going still. We will need more than what we have." And so Dagoth-Ur, who wanted the Dwarves as dead as the Tribunal did, went to Kogoran and summoned his House chap'thil, his nix-hounds, his wizards, archers, his stolen men of brass. And the Ash King, Wulfharth, hoary Ysmir, went and made peace with the Orcs in spite of his Nordic blood, and they brought many warriors but no wizards at all. Many Nords could not bring themselves to ally with their traditional enemies, even in the face of Red Mountain. They were close to desertion. Then Wulfharth said: "Don't you see where you really are? Don't you know who Shor really is? Don't you know what this war is?" And they looked from the King to the God to the Devils and Orcs, and some knew, really knew, and they are the ones that stayed.
+[pagebreak]
+The Doom Drum
+
+Nerevar carried Keening, a dagger made of the sound of the shadow of the moons. His champions were Dumac Dwarfking, who carried a hammer of divine mass, and Alandro Sul, who was the immortal son of Azura and wore the Wraith Mail. They met Lorkhan at the last battle of Red Mountain. Lorkhan had his Heart again, but he had long been from it, and he needed time. Wulfharth met Sul but could not strike him, and he fell from grievous wounds, but not before shouting Sul blind. Dagoth-Ur met Dumac and slew him, but not before Sunder struck his lord's Heart. Nerevar turned away from Lorkhan and struck down Dagoth-Ur in rage, but he took a mortal wound from Lorkhan in turn. But Nerevar feigned the death that was coming early and so struck Lorkhan with surprise on his side. The Heart had been made solid by Sunder's tuning blow and Keening could now cut it out. And it was cut out and Lorkhan was defeated and the whole ordeal was thought over. 

@@ -1,0 +1,102 @@
+[pagebreak]
+<p align="center">
+
+
+The Monomyth
+
+
+
+
+
+</p>
+
+
+
+[pagebreak]
+<p align="left">
+<i>"In Mundus, conflict and disparity are what bring change, and change is the most sacred of the Eleven Forces. Change is the force without focus or origin."</i>-Oegnithr, Taheritae, Order of PSJJJJ
+[pagebreak]
+<img src='img://Textures/Interface/Books/Illuminated_Letters/S_letter.png'>imply put, the schism in the Human/Aldmeri worldview is the mortal's relationship to the divine. Humans take the humble path that they were created by the immortal forces, while the Aldmer claim descent from them. It doesn't seem like much, but it is a distinction that colors the rest of their diverging mythologies.
+
+All Tamrielic religions begin the same. Man or mer, things begin with the dualism of Anu and His Other. These twin forces go by many names: Anu-Padomay, Anuiel-Sithis, Ak-El, Satak-Akel, Is-Is Not. Anuiel is the Everlasting Ineffable Light, Sithis is the Corrupting Inexpressible Action. In the middle is the Gray Maybe ('Nirn' in the Ehlnofex).
+
+In most cultures, Anuiel is honored for his part of the interplay that creates the world, but Sithis is held in highest esteem because he's the one that causes the reaction. Sithis is thus the Original Creator, an entity who intrinsically causes change without design. Even the hist acknowledge this being.
+
+Anuiel is also perceived of as Order, opposed to the Sithis-Chaos. Perhaps it is easier for mortals to envision change than perfect stasis, for often Anuiel is relegated to the mythic background of Sithis' fancies. In Yokudan folk-tales, which are among the most vivid in the world, Satak is only referred to a handful of times, as "the Hum"; he is a force so prevalent as to be not really there at all. 
+
+In any case, from these two beings spring the et'Ada, or Original Spirits. To humans these et'Ada are the Gods and Demons; to the Aldmer, the Aedra/Daedra, or the 'Ancestors'. All of the Tamrielic pantheons fill their rosters from these et'Ada, though divine membership often differs from culture to culture. Like Anu and Padomay, though, every one of these pantheons contains the archetypes of the Dragon God and the Missing God.
+[pagebreak]
+The Dragon God and the Missing God
+
+The Dragon God is always related to Time, and is universally revered as the "First God." He is often called Akatosh, "whose perch from Eternity allowed the day." He is the central God of the Cyrodilic Empire.
+
+The Missing God is always related to the Mortal Plane, and is a key figure in the Human/Aldmeri schism. The 'missing' refers to either his palpable absence from the pantheon (another mental distress that is interpreted a variety of ways), or the removal of his 'divine spark' by the other immortals. He is often called Lorkhan, and his epitaphs are many, equally damnable and devout.
+
+Note that Tamriel and the Mortal Plane do not exist yet. The Gray Maybe is still the playground of the Original Spirits. Some are more bound to Anu's light, others to the unknowable void. Their constant flux and interplay increase their number, and their personalities take long to congeal. When Akatosh forms, Time begins, and it becomes easier for some spirits to realize themselves as beings with a past and a future. The strongest of the recognizable spirits crystallize: Mephala, Arkay, Y'ffre, Magnus, Rupgta, etc., etc. Others remain as concepts, ideas, or emotions. One of the strongest of these, a barely formed urge that the others call Lorkhan, details a plan to create Mundus, the Mortal Plane. 
+
+Humans, with the exception of the Redguards, see this act as a divine mercy, an enlightenment whereby lesser creatures can reach immortality. Aldmer, with the exception of the Dark Elves, see this act as a cruel deception, a trick that sundered their connection to the spirit plane.
+[pagebreak]
+The Myth of Aurbis
+
+Subtitled "The Psijiic Compensation," "Mythic Aurbis" was an attempt by Artaeum apologists to explain the basics of Aldmeri religion to Uriel V in the early, glorious part of his reign. It quietly avoided any blame or bias against the Lorkhan-concept, which was still held in esteem by the Cyrodiils as "Shezarr", the missing sibling of the Divines. Despite this, the Psijiici still give a nice summary of the Elder view, and it will serve our purposes here. This version comes from the archives of the Imperial Seminary from the handwritten notes of an unknown scribe.
+
+[pagebreak]
+Mythic Aurbis exists, and has existed from time without measure, as a fanciful Unnatural Realm. 
+
+'Aurbis' is used to connote the imperceptible Penumbra, the Gray Center between the IS/IS NOT of Anu and Padomay. It contains the multitude realms of Aetherius and Oblivion, as well as other, less structured forms.
+
+The magical beings of Mythic Aurbis live for a long time and have complex narrative lives, creating the patterns of myth.
+
+These are spirits made from bits of the immortal polarity. The first of these was Akatosh the Time Dragon, whose formation made it easier for other spirits to structure themselves. Gods and demons form and reform and procreate.
+
+Finally, the magical beings of Mythic Aurbis told the ultimate story -- that of their own death. For some this was an artistic transfiguration into the concrete, non-magical substance of the world. For others, this was a war in which all were slain, their bodies becoming the substance of the world. For yet others, this was a romantic marriage and parenthood, with the parent spirits naturally having to die and give way to the succeeding mortal races.
+
+The agent of this communal decision was Lorkhan, whom most early myths vilify as a trickster or deceiver. More sympathetic versions of this story point out Lorkhan as being the reason the mortal plane exists at all.
+
+The magical beings created the races of the mortal Aurbis in their own image, either consciously as artists and craftsmen, or as the fecund rotting matter out of which the mortals sprung forth, or in a variety of other analogical senses.
+
+The magical beings, then, having died, became the et'Ada. The et'Ada are the things perceived and revered by the mortals as gods, spirits, or geniuses of Aurbis. Through their deaths, these magical beings separated themselves in nature from the other magical beings of the Unnatural realms.
+
+The Daedra were created at this time also, being spirits and Gods more attuned to Oblivion, or that realm closer to the Void of Padomay. This act is the dawn of the Mythic (Merethic) Era. It has been perceived by the earliest mortals many different ways, either as a joyous 'second creation', or (especially by the Elves) as a painful fracturing from the divine. The originator of the event is always Lorkhan.
+[pagebreak]
+Lorkhan
+
+This Creator-Trickster-Tester deity is in every Tamrielic mythic tradition. His most popular name is the Aldmeri "Lorkhan," or Doom Drum. He convinced or contrived the Original Spirits to bring about the creation of the Mortal Plane, upsetting the status quo much like his father Padomay had introduced instability into the universe in the Beginning Place. After the world is materialized, Lorkhan is separated from his divine center, sometimes involuntarily, and wanders the creation of the et'Ada. Interpretations of these events differ widely by culture. Below are some of the better known:
+
+Yokudan, "Satakal the Worldskin"
+
+"Satak was First Serpent, the Snake who came Before, and all the worlds to come rested in the glimmer of its scales. But it was so big there was nothing but, and thus it was coiled around and around itself, and the worlds to come slid across each other but none had room to breathe or even be. And so the worlds called to something to save them, to let them out, but of course there was nothing outside the First Serpent, so aid had to come from inside it; this was Akel, the Hungry Stomach. Akel made itself known, and Satak could only think about what it was, and it was the best hunger, so it ate and ate. Soon there was enough room to live in the worlds and things began. These things were new and they often made mistakes, for there was hardly time to practice being things before. So most things ended quickly or were not good or gave up on themselves. Some things were about to start, but they were eaten up as Satak got to that part of its body. This was a violent time.
+
+"Pretty soon Akel caused Satak to bite its own heart and that was the end. The hunger, though, refused to stop, even in death, and so the First Serpent shed its skin to begin anew. As the old world died, Satakal began, and when things realized this pattern so did they realize what their part in it was. They began to take names, like Ruptga or Tuwhacca, and they strode about looking for their kin. As Satakal ate itself over and over, the strongest spirits learned to bypass the cycle by moving at strange angles. They called this process the Walkabout, a way of striding between the worldskins. Ruptga was so big that he was able to place the stars in the sky so that weaker spirits might find their way easier. This practice became so easy for the spirits that it became a place, called the Far Shores, a time of waiting until the next skin. 
+
+"Ruptga was able to sire many children through the cycles and so he became known as the Tall Papa. He continued to place stars to map out the void for others, but after so many cycles there were almost too many spirits to help out. He made himself a helper from the detritus of past skins and this was Sep, or Second Serpent. Sep had much of the Hungry Stomach still left in him, multiple hungers from multiple skins. He was so hungry he could not think straight. Sometimes he would just eat the spirits he was supposed to help, but Tall Papa would always reach in and take them back out. Finally, tired of helping Tall Papa, Sep went and gathered the rest of the old skins and balled them up, tricking spirits to help him, promising them this was how you reached the new world, by making one out of the old. These spirits loved this way of living, as it was easier. No more jumping from place to place. Many spirits joined in, believing this was good thinking. Tall Papa just shook his head.
+
+"Pretty soon the spirits on the skin-ball started to die, because they were very far from the real world of Satakal. And they found that it was too far to jump into the Far Shores now. The spirits that were left pleaded with Tall Papa to take them back. But grim Ruptga would not, and he told the spirits that they must learn new ways to follow the stars to the Far Shores now. If they could not, then they must live on through their children, which was not the same as before. Sep, however, needed more punishment, and so Tall Papa squashed the Snake with a big stick. The hunger fell out of Sep's dead mouth and was the only thing left of the Second Serpent. While the rest of the new world was allowed to strive back to godhood, Sep could only slink around in a dead skin, or swim about in the sky, a hungry void that jealously tried to eat the stars."
+[pagebreak]
+Cyrodilic ""Shezarr's Song""
+
+"This was a new thing that Shezarr described to the Gods, becoming mothers and fathers, being responsible, and making great sacrifices, with no guarantee of success, but Shezarr spoke beautifully to them, and moved them beyond mystery and tears. Thus the Aedra gave free birth to the world, the beasts, and the beings, making these things from parts of themselves. This free birth was very painful, and afterwards the Aedra were no longer young, and strong, and powerful, as they had been from the beginning of days. 
+
+"Some Aedra were disappointed and bitter in their loss, and angry with Shezarr, and with all creation, for they felt Shezarr had lied and tricked them. These Aedra, the Gods of the Aldmer, led by Auri-El, were disgusted by their enfeebled selves, and by what they had created. 'Everything is spoiled, for now, and for all time, and the most we can do is teach the Elven Races to suffer nobly, with dignity, and chastise ourselves for our folly, and avenge ourselves upon Shezarr and his allies.' Thus are the Gods of the Elves dark and brooding, and thus are the Elves ever dissatisfied with mortality, and always proud and stoic despite the harshness of this cruel and indifferent world.
+
+"Other Aedra looked upon creation, and were well pleased. These Aedra, the Gods of Men and Beast Folk, led by Akatosh, praised and cherished their wards, the Mortal Races. 'We have suffered, and are diminished, for all time, but the mortal world we have made is glorious, filling our hearts and spirits with hope. Let us teach the Mortal Races to live well, to cherish beauty and honor, and to love one another as we love them.' Thus are the Gods of Men tender and patient, and thus are Men and Beast Folk great in heart for joy or suffering, and ambitious for greater wisdom and a better world.
+
+"Now when the Daedra Lords heard Shezarr, they mocked him, and the other Aedra. 'Cut parts of ourselves off? And lose them? Forever? That's stupid! You'll be sorry! We are far smarter than you, for we will create a new world out of ourselves, but we will not cut it off, or let it mock us, but we will make this world within ourselves, forever ours, and under our complete control.'
+
+"So the Daedra Lords created the Daedric Realms, and all the ranks of Lesser Daedra, great and small. And, for the most part, the Daedra Lords were well pleased with this arrangement, for they always had worshippers and servants and playthings close to hand. But, at the same time, they sometimes looked with envy upon the Mortal Realms, for though mortals were foul and feeble and contemptible, their passions and ambitions were also far more surprising and entertaining than the antics of the Lesser Daedra. Thus do the Daedra Lords court and seduce certain amusing specimens of the Mortal Races, especially the passionate and powerful. It gives the Daedra Lords special pleasure to steal away from Shezarr and the Aedra the greatest and most ambitious mortals. 'Not only are you fools to mutilate yourselves,' gloat the Daedra Lords, 'But you cannot even keep the best pieces, which prefer the glory and power of the Daedra Lords to the feeble vulgarity of the mush-minded Aedra.'"
+[pagebreak]
+Altmeri "The Heart of the World"
+
+"Anu encompassed, and encompasses, all things. So that he might know himself he created Anuiel, his soul and the soul of all things. Anuiel, as all souls, was given to self-reflection, and for this he needed to differentiate between his forms, attributes, and intellects. Thus was born Sithis, who was the sum of all the limitations Anuiel would utilize to ponder himself. Anuiel, who was the soul of all things, therefore became many things, and this interplay was and is the Aurbis.
+
+"At first the Aurbis was turbulent and confusing, as Anuiel's ruminations went on without design. Aspects of the Aurbis then asked for a schedule to follow or procedures whereby they might enjoy themselves a little longer outside of perfect knowledge. So that he might know himself this way, too, Anu created Auriel, the soul of his soul. Auriel bled through the Aurbis as a new force, called time. With time, various aspects of the Aurbis began to understand their natures and limitations. They took names, like Magnus or Mara or Xen. One of these, Lorkhan, was more of a limit than a nature, so he could never last long anywhere.
+
+"As he entered every aspect of Anuiel, Lorkhan would plant an idea that was almost wholly based on limitation. He outlined a plan to create a soul for the Aurbis, a place where the aspects of aspects might even be allowed to self-reflect. He gained many followers; even Auriel, when told he would become the king of the new world, agreed to help Lorkhan. So they created the Mundus, where their own aspects might live, and became the et'Ada.
+
+"But this was a trick. As Lorkhan knew, this world contained more limitations than not and was therefore hardly a thing of Anu at all. Mundus was the House of Sithis. As their aspects began to die off, many of the et'Ada vanished completely. Some escaped, like Magnus, and that is why there are no limitations to magic. Others, like Y'ffre, transformed themselves into the Ehlnofey, the Earthbones, so that the whole world might not die. Some had to marry and make children just to last. Each generation was weaker than the last, and soon there were Aldmer. Darkness caved in. Lorkhan made armies out of the weakest souls and named them Men, and they brought Sithis into every quarter.
+
+"Auriel pleaded with Anu to take them back, but he had already filled their places with something else. But his soul was gentler and granted Auriel his Bow and Shield, so that he might save the Aldmer from the hordes of Men. Some had already fallen, like the Chimer, who listened to tainted et'Ada, and others, like the Bosmer, had soiled Time's line by taking Mannish wives.
+
+"Auriel could not save Altmora, the Elder Wood, and it was lost to Men. They were chased south and east to Old Ehlnofey, and Lorkhan was close behind. He shattered that land into many. Finally Trinimac, Auriel's greatest knight, knocked Lorkhan down in front of his army and reached in with more than hands to take his Heart. He was undone. The Men dragged Lorkhan's body away and swore blood vengeance on the heirs of Auriel for all time.
+
+"But when Trinimac and Auriel tried to destroy the Heart of Lorkhan it laughed at them. It said, "This Heart is the heart of the world, for one was made to satisfy the other." So Auriel fastened the thing to an arrow and let it fly long into the sea, where no aspect of the new world may ever find it." 
