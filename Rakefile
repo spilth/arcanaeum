@@ -27,7 +27,7 @@ task :import do
 		
 		# Get the title
 		title = filename.split(".txt")[0]
-		new_filename = "#{title.parameterize}.md"
+		new_filename = "#{title.parameterize}.textile"
 		new_path = "#{target_directory}/#{new_filename}"
 
 		puts new_path

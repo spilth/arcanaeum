@@ -1,8 +1,15 @@
 body {
-width: 940px;
-margin: auto;
-background: url(/images/paper.jpg);
-font-size: 200%;
-font-family: 'Fondamento', cursive;
+	width: 940px;
+	margin: auto;
+	background: url(/images/paper.jpg);
+	font-size: 200%;
+	font-family: 'Fondamento', cursive;
 }
 
+hr {
+	border: 0;
+	width: 80%;
+	color: #000;
+	background-color: #000;
+	height: 4px;
+}
