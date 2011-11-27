@@ -3,7 +3,7 @@ title: Welcome to the Arcanaeum
 layout: index
 ---
 
-Maintained by Urag gro-Shub
+The Arcanaeum contains all the books of Skyrim in a simple, clean format for easy reading on your iPad, iPhone, Android devices and laptop. You can let me know what you think via [my Twitter account](https://twitter.com/#!/spilth).
 
 ## Our Books
 
@@ -22,6 +22,4 @@ Maintained by Urag gro-Shub
 * [Dovahkiin Gutenberg](http://capane.us/2011/11/24/dovahkiin-gutenberg/)
 * [The Elder Scrolls Wiki - Skyrim:Books](http://elderscrolls.wikia.com/wiki/Category:Skyrim:_Books)
 * [The Unofficial Elder Scrolls Pages - Skyrim:Books](http://www.uesp.net/wiki/Skyrim:Books)
-
-
 
