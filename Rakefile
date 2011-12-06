@@ -51,8 +51,14 @@ title: #{title}
 	
 		new_contents.gsub!(/<p align="left">/, "\n\n")
 
-		new_contents.gsub!(/<img src='img:\/\/Textures\/Interface\/Books\/Illuminated_Letters\//, "")
-		new_contents.gsub!(/_letter.png'>/, "")
+    # Look for
+    #   'img://Textures/Interface/Books/dunRiverwoodTreasMap.png'
+    # Replace with
+    #   '/images/textures/interface/books/whatever.png'
+    new_contents.gsub!(/img:\/\/(.*).png/) {"/images/#{$1.downcase!}.png"}
+
+		# new_contents.gsub!(/<img src='img:\/\/Textures\/Interface\/Books\/Illuminated_Letters\//, "")
+		# new_contents.gsub!(/_letter.png'>/, "")
 	
 		# Write out a file
 		markdown_file = File.open(new_path, "w")

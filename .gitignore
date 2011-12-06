@@ -2,4 +2,5 @@ _site
 books/*
 .DS_Store
 _includes/*
+_jekyll_s3.yml
 
